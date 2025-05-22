@@ -31,6 +31,7 @@ namespace JustLikeACollection
             {
                 Console.WriteLine($"    {f}");
             }
+            Console.WriteLine("Obrigado por ter usado este programa!");
 
             // Expected output:
 
